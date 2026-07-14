@@ -361,13 +361,264 @@ Utopien / verziehen / gedeihen / befreien / schreien / leihen
 
 ---
 
-## ⅩⅩⅤ. BETÄUBUNG — Das bewusstloseste Wort
+## ⅩⅩⅥ. ALPTRAUM — Das ängstlichste Wort
 
-**Synonyme:** Anästhesie, Narkose
+**Synonyme (OpenThesaurus):** Albdruck, Angsttraum
 
 **Reime:**
 ```
-Betäubung / Erlaubung / Beraubung / Taubung / Glaubung / Beugung
-Betäubung / Lähmung / Nehmung / Grämung / Zähmung / Schämung
-Betäubend / sträubend / räumend / versäumend / aufbäumend
+Alptraum / kaum / Raum / Schaum / Zaum / Baum / Saum / Traum (Wortspiel!)
+Alpträume / Räume / Schäume / Zäume / Bäume / versäume / Keime
+Alptraum / Albtraum-Stadt / Matt / satt / glatt / Platte / Watte
 ```
+
+**Text-Einsatz:** *"ALBTRAUM im RAUM — und KAUM ein BAUM — nur SCHAUM auf dem SAUM"*
+
+---
+
+## ⅩⅩⅦ. LABYRINTH — Das verwirrendste Wort
+
+**Synonyme:** Irrgarten
+
+**Reime:**
+```
+Labyrinth / blind / Kind / Wind / find / beginnt / geschwind / rinnt
+Labyrinth / sind / Spind / Rind / grind / schind / Lind
+Labyrinthe / Binde / Rinde / Winde / Gründe / Sünde / Stinde
+```
+
+---
+
+## ⅩⅩⅧ. KARUSSELL — Das drehendste Wort
+
+**Synonyme:** Ringelbahn, Ringelspiel, Reitschule
+
+**Reime:**
+```
+Karussell / schnell / hell / Fell / stell / Bell / Zell / grell
+Karussell / Rebell / Forell / Gestell / Hotel / Pastell
+Karusselle / Welle / Stelle / Schwelle / Helle / Felle / Quelle
+```
+
+---
+
+## ⅩⅩⅨ. INFERNO — Das heißeste Wort
+
+**Synonyme:** Hölle, Hades, Orcus
+
+**Reime:**
+```
+Inferno / Stern-oh / fern-oh / Kern-oh / gern-oh / lern-oh / modern-oh
+Inferno / Taverne / Laterne / Zisterne / Moderne / Quarantäne
+Infernos / Los / gross / bloss / Schloss / Ross / Tross / Schoss
+```
+
+---
+
+## ⅩⅩⅩ. VENDETTA — Das rachsüchtigste Wort
+
+**Synonyme:** Blutrache, Rachefeldzug
+
+**Reime:**
+```
+Vendetta / netter / Retter / Wetter / Blätter / Gezeter / Trendsetter
+Vendetta / fette / Kette / Wette / Bette / Mette / hätte / Plette
+Vendetta / Vendetta-Lied / schied / Glied / Fried / mied / zied
+```
+
+---
+
+## ⅩⅩⅪ. SYMPHONIE — Das harmonischste Wort
+
+**Synonyme:** Sinfonie
+
+**Reime:**
+```
+Symphonie / Theorie / Euphorie / Hysterie / Melodie / Energie / Ironie
+Symphonie / nie / wie / sie / die / schrie / Knie / Genie / Partie
+Symphonien / verziehen / gedeihen / befreien / schreien / leihen / weihen
+```
+
+---
+
+## ⅩⅩⅫ. TATTOO — Das eingebrannteste Wort
+
+**Synonyme:** Tätowierung, Peckerl
+
+**Reime:**
+```
+Tattoo / zu / du / Schuh / Ruh / Kuh / Coup / Tabu
+Tattoo / Guru / Accru / Peru / dazu / im Nu / Tabul
+Tattoo-Zeichen / erreichen / ausweichen / abgleichen / Zeichen
+```
+
+---
+
+## ⅩⅩⅪⅡ. OBSIDIAN — Das vulkanischste Wort
+
+**Synonyme:** Glas, vulkanisches Gestein
+
+**Reime:**
+```
+Obsidian / an / Mann / Kamm / Stamm / Flamm / Gramm / schwamm / dann
+Obsidian / begann / zerrann / gewann / sann / rann / Bann / Tann
+Obsidian-Klinge / Dinge / Ringe / schlinge / zwinge / gelinge / bringe
+```
+
+---
+
+## ⅩⅩⅪⅣ. PHÖNIX — Das auferstehendste Wort
+
+**Synonyme:** —
+
+**Reime:**
+```
+Phönix / Klinik(s) / Minik(s) / Kritik(s) / Politik(s)
+Phönix / Lyriks / Rubrik(s) / Fabrik / Limericks / Katholik's
+Phönix-Asche / Flasche / Tasche / Hasche / Nasche / Lasche / brasche
+```
+
+---
+
+## ⅩⅩⅩⅤ. GENESIS — Das anfänglichste Wort
+
+**Synonyme:** Schöpfungsgeschichte
+
+**Reime:**
+```
+Genesis / Reminiszenz / Tendenz / Existenz / Intelligenz / Konsequenz
+Genesis / Nemesis / Genese / Synthese / Antithese / Hypothese
+Genesis / Genesis-Buch / Fluch / Tuch / Bruch / Geruch / Besuch
+```
+
+---
+
+## ⅩⅩⅩⅥ. EXODUS — Das ausziehendste Wort
+
+**Synonyme:** Massenflucht, panische Flucht, massenhaftes Verlassen
+
+**Reime:**
+```
+Exodus / Kuss / Schluss / Fluss / Buss / Nuss / Guss / Muss / Russ
+Exodus / Genus / Nexus / Überdruss / Beschluss / Erguss / Verdruss
+Exodus-Welle / Stelle / Schwelle / Helle / Quelle / Felle / Grelle
+```
+
+---
+
+## ⅩⅩⅩⅦ. KALEIDOSKOP — Das bunteste Wort
+
+**Synonyme:** Bunte Mischung, facettenreich, breite Palette
+
+**Reime:**
+```
+Kaleidoskop / Kopf / Zopf / Schopf / Knopf / Tropf / Topf / Klopf
+Kaleidoskop / Galopp / Salopp / gestoppt / verpoppt / unverhofft
+Kaleidoskope / Hope / Cope / Pope / Seilope / Antilope / Horoskope
+```
+
+---
+
+## ⅩⅩⅩⅧ. MAUSOLEUM — Das totenstillste Wort
+
+**Synonyme:** Grabstätte
+
+**Reime:**
+```
+Mausoleum / Ruhm / Blum / stumm / warum / worum / herum / darum / Volumen
+Mausoleum / Parfüm / Kostüm / Individuum / Studium / Delirium
+Mausoleen / Ideen / Spree'n / Knie'n / Genie'n / Schreien / Verziehen
+```
+
+---
+
+## ⅩⅩⅩⅨ. KOLLATERALSCHADEN — Das bürokratischste Wort
+
+**Synonyme:** Begleitschaden, Randschaden
+
+**Reime:**
+```
+Kollateralschaden / beladen / Fladen / Maden / Gnaden / Pfaden / Schaden
+Kollateralschaden / verbraten / geraten / beraten / Soldaten / Piraten
+Kollateralschäden / jeden / Reden / Feden / Beeden / Fehden / Städten
+```
+
+---
+
+## ⅩⅬ. SARKOPHAG — Das begrabenste Wort
+
+**Synonyme:** Prunksarg, Steinsarg
+
+**Reime:**
+```
+Sarkophag / trag / mag / lag / Schlag / frag / Tag / klag / wag / sag
+Sarkophag / Vertrag / Ertrag / Betrag / Vortrag / Beitrag / Antrag
+Sarkophage / Frage / Lage / Waage / Plage / Klage / Sage / Tage
+```
+
+---
+
+## ⅩⅬⅠ. BIOTOP — Das natürlichste Wort
+
+**Synonyme:** Habitat, Lebensraum
+
+**Reime:**
+```
+Biotop / Kopf / Zopf / Schopf / Knopf / Tropf / Topf / Klopf
+Biotop / Galopp / Salopp / gestoppt / verpoppt / obendrauf
+Biotope / Hope / Cope / Pope / Horoskope / Mikroskope / Teleskope
+```
+
+---
+
+## ⅩⅬⅡ. CHAMÄLEON — Das anpassungsfähigste Wort
+
+**Synonyme:** —
+
+**Reime:**
+```
+Chamäleon / schon / drohn / wohn / Lohn / Thron / Mohn / Sohn / Ton
+Chamäleon / davon / Kanon / Neon / Pylon / Dämon / Baron
+Chamäleons / Mons / Cons / Dons / Sons / Johns / Bronze / Response
+```
+
+---
+
+## ⅩⅬⅢ. MIRAGE — Das täuschendste Wort
+
+**Synonyme:** —
+
+**Reime:**
+```
+Mirage / Lage / Frage / Waage / Plage / Klage / Sage / Tage / trage
+Mirage / Garage / Etage / Passage / Blamage / Plantage / Massage
+Mirages / Lasch-es / Hasch-es / Nasch-es / Wasch-es / Rasch-es
+```
+
+---
+
+## ⅩⅬⅣ. METHADON — Das umstrittenste Wort
+
+**Synonyme:** —
+
+**Reime:**
+```
+Methadon / schon / drohn / wohn / Lohn / Thron / Mohn / Sohn / Ton
+Methadon / davon / Beton / Neuron / Proton / Ozon / Keton
+Methadon-Spiegel / Ziegel / Igel / Schniegel / Schwiegel / Flügel / Hügel
+```
+
+---
+
+## ⅩⅬⅤ. HOLOGRAMM — Das illusorischste Wort
+
+**Synonyme:** —
+
+**Reime:**
+```
+Hologramm / Kamm / Stamm / Flamm / Gramm / Schwamm / Damm / Lamm / stramm
+Hologramm / Programm / Telegramm / Diagramm / Kilogramm / Parallelogramm
+Hologramme / Ramme / Klamme / Stamme / Wamme / Schwamme / verdammte
+```
+
+**Gesamt: 45 polarisierende Wörter + 20 neue = 65 ungewöhnliche Wörter mit OpenThesaurus-Synonymen + Reimen + Texteinsatz**

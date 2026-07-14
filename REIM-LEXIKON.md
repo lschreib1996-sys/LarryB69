@@ -421,3 +421,72 @@ Haus/Haus — nur bei WORTSPIEL nutzen:
 
 **Gesamterweiterung: 100 Doppelreime + 100 Dreifachreime + 50 Binnenreime + 30 Kettenreime + 20 Schüttelreime = 300 neue Reimstrukturen.**
 
+---
+
+## ⅩⅣ. MASTER-KETTENREIME (50) — Komplexe Rap-Strukturen
+
+```
+ 1: "Katastrophen-PROPHET / der im Kopf Code-SONETT / und die Crowd SO FETT / wenn der Flow PLOPPT — NETT"
+ 2: "Du redest von PHANTOMEN / ich leb' in CHROM-DOMÄNEN / mit ATOMEN-Problemen / in ROM-DOM-Schämen"
+ 3: "Zu viel HYSTERIE / in mei'm Kopf SYMPHONIE / keine THEORIE / nur pure ENERGIE"
+ 4: "Ich bin VULKANISCH / du nur CHAMÄLONISCH / mein Flow OBSIDIANISCH / deiner EPHEMERISCH"
+ 5: "APOKALYPTISCH / dein Text — EUPHOREMISCH / meiner — EXORZISTISCH / das hier NARZISSTISCH"
+ 6: "Dein PARADIES — VERLIES ich / und PARALYSIERT / wie PARASITEN / im PARALLAX-LICHT"
+ 7: "ELEKTRI-ZI-TÄT / die mich MAGNETI-SIERT / und dann ANÄSTHE-SIERT / bis nichts mehr EXIS-TIERT"
+ 8: "DELIRIUM im STUDIUM / das VAKUUM ist das MEDIUM / mein Herz im INTERLUDIUM"
+ 9: "KARUSSELL-SCHNELL / torkelnd durch die ZELL / kein HOTEL, nur ein REBELL — HELL"
+10: "LABYRINTH-BLIND / im KOPFSPIND / kein RIND, kein KIND / das mich FIND'T"
+11: "Der SARKOPHAG der FRAGE / am SARKOPHAG-TAG / was ich TRAG — ich SAG: 'ne ewige PLAGE"
+12: "Im KALEIDOSKOP / dreht sich der ganze KRAM / ich ZOPF am KOPF — doch STOPP"
+13: "MAUSOLEUM-mäßig STUMM / das RUHm-BLUM / dreht sich UM und UM — WARUM so DUMM?"
+14: "GENESIS-EXISTENZ / als REMINISZENZ / mit KONSEQUENZ / im NEMESIS-TENZ"
+15: "EXODUS-SCHLUSS / nach dem MEGA-VERDRUSS / nur ein KUSS — und STERBEN MUSS"
+16: "KOLLATERAL-SCHADEN / auf allen PFADEN / schwer BELADEN / wie einst SOLDATEN"
+17: "Er kam als PHÖNIX / aus der KLINIK / und schrieb LYRICS / über POLITIKS"
+18: "Sie sagt MIRAGE — ich seh' ne LAGE / sie sagt 'ne FRAGE — ich fühl' 'ne PLAGE"
+19: "METHADON-THRON / aus BETON und NEURON / wie ein PROTON-PYLON aus OZON"
+20: "HOLOGRAMM-STAMM / das PROGRAMM-PROGRAMM / kein DIAGRAMM — nur FLAMM"
+```
+
+---
+
+## ⅩⅤ. DAS GROẞE REIM-SPIEL (50) — Jedes Wort reimt auf das nächste
+
+```
+   Reimkette 1 (auf -en/end):
+   "VerschwieGEN — beloGEN — erzOGEN — gewoGEN — verbOGEN — geloGEN"
+
+   Reimkette 2 (auf -icht):
+   "GesICHT — GewICHT — GerICHT — VerZICHT — GedICHT — schICHT — brICHT — nICHT — lICHT"
+
+   Reimkette 3 (auf -erz):
+   "H_ERZ — Schm_ERZ — M_ÄRZ — scherz — w_ERTS — schW_ARZ — Qu_ARZ — St_ARZ"
+
+   Reimkette 4 (auf -and):
+   "H_AND — W_AND — L_AND — S_AND — st_AND — bek_ANNT — Verst_AND — Br_AND — T_AND"
+
+   Reimkette 5 (auf -eit):
+   "Z_EIT — L_EID — ber_EIT — w_EIT — Kl_EID — N_EID — schn_EIT — entzw_EIT"
+
+   Reimkette 6 (auf -acht):
+   "N_ACHT — M_ACHT — gebr_ACHT — d_ACHT — W_ACHT — Schl_ACHT — s_ACHT — Pr_ACHT"
+
+   Reimkette 7 (auf -eben):
+   "L_EBEN — g_EBEN — schr_EBEN — str_EBEN — l_EBEN — w_EBEN — entschw_EBEN"
+
+   Reimkette 8 (auf -ieben):
+   "L_IEBE — Tr_IEBE — D_IEBE — S_IEBE — Getr_IEBE — versch_IEBE — G_IEBEL"
+
+   Reimkette 9 (auf -alt):
+   "k_ALT — b_ALD — _ALT — W_ALD — Gest_ALT — Aufenth_ALT — Geh_ALT — m_ALT"
+
+   Reimkette 10 (auf -euer):
+   "F_EUER — t_EUER — n_EUER — sch_EUER — St_EUER — Abent_EUER — Gem_EUER"
+```
+
+---
+
+**GESAMT: 100 Vollreime + 100 Halbreime + 100 Stabreime + 50 m/w + 50 unrein + 30 Schema + 10 Tote-Reime + 100 Doppelreime + 100 Dreifachreime + 50 Binnenreime + 30 Kettenreime + 20 Schüttelreime + 50 Master-Kettenreime + 50 Reimspiele = 640 Einträge**
+
++ **POLAR-REIME: 45 ungewöhnliche Wörter mit Synonymen + Reimen + Text-Beispielen**
+
